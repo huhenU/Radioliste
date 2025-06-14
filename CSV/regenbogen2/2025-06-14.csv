@@ -1,0 +1,336 @@
+time;duration;id;artist;title;cover
+2025-06-14 00:02:29;248;82fa0495-8256-4560-47a2-b28f18037b59;SCORPIONS;ROCK YOU LIKE A HURRICANE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712645.jpg
+2025-06-14 00:06:40;206;59a4e956-d26e-4cd6-671f-b9e1a91eaaec;CHESNEY HAWKES;THE ONE AND ONLY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693515.jpg
+2025-06-14 00:10:05;253;ae1e843c-d651-42b1-bb6d-145c313f8ee6;STEELY DAN;REELIN' IN THE YEARS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226720799.jpg
+2025-06-14 00:14:19;228;3120d697-adb2-452e-fedd-735c11d5ccb1;VOLBEAT;TIME WILL HEAL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238350621.jpg
+2025-06-14 00:18:07;263;14b306e3-18e7-48e6-9a27-8ca1d8bc94e6;IRON MAIDEN;THE NUMBER OF THE BEAST;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710519.jpg
+2025-06-14 00:22:30;203;3d598a89-e063-4b05-9721-0f753f16d16c;MR. BIG;WILD WORLD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682661.jpg
+2025-06-14 00:25:54;158;98c6b0ea-d65e-4deb-7630-96c6111f8908;STATUS QUO;ROCKIN' ALL OVER THE WORLD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690035.jpg
+2025-06-14 00:28:31;225;303e164f-7d00-4d46-1301-8b7ef901cdac;WHEATUS;TEENAGE DIRTBAG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226702045.jpg
+2025-06-14 00:32:58;235;50d4cc03-53e9-40c9-1683-0b412b381477;GENESIS;JESUS HE KNOWS ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682621.jpg
+2025-06-14 00:36:56;272;989f262a-6569-4f61-d6fb-66eba6f3923e;COLDPLAY;TALK;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712737.jpg
+2025-06-14 00:41:28;198;8ca8bd56-49bf-4c91-2668-6653b60f6b2c;ALICE COOPER;POISON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695093.jpg
+2025-06-14 00:44:46;300;1d079af5-6171-4e80-e7da-be08d5fdc1ec;GOLDEN EARRING;RADAR LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685805.jpg
+2025-06-14 00:49:47;211;af2f62a6-6385-4f69-4cd7-d94f783df68b;ALANIS MORISSETTE;HAND IN MY POCKET;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710791.jpg
+2025-06-14 00:53:24;250;e23bacd0-09db-4ab3-e626-4a999006d986;U2;I STILL HAVEN'T FOUND WHAT I'M LOOKING FOR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226694897.jpg
+2025-06-14 00:57:34;195;e7170264-0954-4276-68c0-a514a135eadd;KINGS OF LEON;SEX ON FIRE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695277.jpg
+2025-06-14 01:02:42;188;c3bb6404-85e7-428f-6aef-33cef1d56d86;RED HOT CHILI PEPPERS;CALIFORNICATION;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690967.jpg
+2025-06-14 01:05:50;201;faa75580-89d8-48cd-80c2-beb8c9e98673;THE CURE;CLOSE TO ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713971.jpg
+2025-06-14 01:09:10;162;9e9c6c52-b8b8-4a5c-0de7-a707fc31be03;A DAY TO REMEMBER;LEBRON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_237686251.jpg
+2025-06-14 01:11:56;198;e51e28e8-c0d8-4639-a134-54d599db2b69;URIAH HEEP;FREE ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685833.jpg
+2025-06-14 01:15:13;238;664402f7-b087-4ce6-e1ab-c4924ea11dba;UGLY KID JOE;CATS IN THE CRADLE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684015.jpg
+2025-06-14 01:19:11;218;3f7c4fa8-0902-45e1-6131-bf141ec75713;THE POLICE;DE DO DO DO DE DA DA DA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688239.jpg
+2025-06-14 01:22:49;192;3e5e2ce0-c4ab-4c6a-059c-c1f16294925d;THE HIVES;HATE TO SAY I TOLD YOU SO;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705683.jpg
+2025-06-14 01:26:01;223;91d4656c-4fdc-4726-141f-84c2e5991f9f;MANFRED MANN'S EARTH BAND;BLINDED BY THE LIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688449.jpg
+2025-06-14 01:30:26;333;609fd21a-eb42-47d9-342d-07e6a2fa85a4;BAP;VERDAMP LANG HER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693669.jpg
+2025-06-14 01:35:59;140;b017911f-369f-4f70-18c0-559a97f3ca00;LED ZEPPELIN;IMMIGRANT SONG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712663.jpg
+2025-06-14 01:38:19;232;7725f9ed-4850-4f6b-d166-7f235e1b2c2c;SANTANA FEAT. ROB THOMAS;SMOOTH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683803.jpg
+2025-06-14 01:42:16;199;822b9a4c-7641-487d-b2f8-80787b97f820;DAUGHTRY;IT'S NOT OVER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696261.jpg
+2025-06-14 01:45:35;252;8355fde4-f83d-47b9-df1a-2e73aaa4b1e8;TINA TURNER;WHAT YOU GET IS WHAT YOU SEE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698255.jpg
+2025-06-14 01:49:47;268;c35c94dc-cdcf-408a-a42b-9e99b683eade;OASIS;SUPERSONIC;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710851.jpg
+2025-06-14 01:54:15;323;c3377839-b7bc-429f-78dd-2c4d689eb275;DEEP PURPLE;SMOKE ON THE WATER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714731.jpg
+2025-06-14 02:01:34;172;73019850-92a8-41a1-b968-ce5194b358e3;JOAN JETT & THE BLACKHEARTS;I LOVE ROCK'N ROLL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226876755.jpg
+2025-06-14 02:04:26;216;24ea7523-68fe-4454-850f-d4bc47f97b64;GARY MOORE;ALL YOUR LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709379.jpg
+2025-06-14 02:08:02;230;e7c53bfe-18e8-44bb-60f9-39ae4e0c5903;SUPERTRAMP;THE LOGICAL SONG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709887.jpg
+2025-06-14 02:11:52;185;10dbbcf0-8847-4919-55af-16b67132d368;THREE DAYS GRACE;APOLOGIES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238349195.jpg
+2025-06-14 02:14:57;199;e0126ae3-622f-412a-f4f5-a11f4d79b9bf;DANZIG;MOTHER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705583.jpg
+2025-06-14 02:18:15;229;93117db3-1353-4b0a-e192-3de884f5d750;SHAKESPEAR'S SISTER;HELLO [TURN YOUR RADIO ON];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684165.jpg
+2025-06-14 02:22:04;239;0736fb2c-c609-42a2-9997-afbed011707e;DAVID BOWIE;STARMAN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709475.jpg
+2025-06-14 02:26:05;207;c2e9443f-939e-4f51-ae61-423fcbb467d5;DANDY WARHOLS;BOHEMIAN LIKE YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226702503.jpg
+2025-06-14 02:29:53;248;ec987849-39f9-41fe-3ae3-1a756e3a9074;TOM COCHRANE;LIFE IS A HIGHWAY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682617.jpg
+2025-06-14 02:34:05;225;d14d00fb-2545-4272-7aed-f19ba1eb21c2;LINKIN PARK;BURN IT DOWN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695557.jpg
+2025-06-14 02:37:51;201;c432f613-8413-4113-82f0-d61ed33dc1c9;NAZARETH;DREAM ON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693685.jpg
+2025-06-14 02:41:12;211;6bbf7170-6625-4199-a87d-c9926ec18823;ERIC CLAPTON;LAY DOWN SALLY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710195.jpg
+2025-06-14 02:44:43;310;60431f2c-40c7-4299-791d-221330aec487;RAGE AGAINST THE MACHINE;KILLING IN THE NAME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714911.jpg
+2025-06-14 02:49:58;212;3079b610-73db-43ac-a24e-7c6c55a875c8;BRUCE SPRINGSTEEN;GLORY DAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688273.jpg
+2025-06-14 02:53:30;242;1694757f-0b8b-4583-ec7b-498804782dd7;GREEN DAY;WAKE ME UP WHEN SEPTEMBER ENDS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226701649.jpg
+2025-06-14 02:59:55;208;32bdb6e3-a333-44ff-1181-77ea884ccb44;BRYAN ADAMS;18 TIL I DIE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705407.jpg
+2025-06-14 03:03:23;272;e4adef9c-d5b6-4d60-f45d-b1bf73a0a572;AC/DC;JAILBREAK;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716763.jpg
+2025-06-14 03:07:55;172;a2c41678-5851-4710-02db-9fe1d084b1bf;IMAGINE DRAGONS;DEMONS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226697515.jpg
+2025-06-14 03:10:50;295;18a8f4cc-a77f-4ef7-31c0-75685f390b5c;THE WHO;WHO ARE YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698493.jpg
+2025-06-14 03:15:45;249;72c13ce1-1931-4ff4-73ee-9c93ca8468aa;CRANBERRIES;ZOMBIE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683727.jpg
+2025-06-14 03:19:59;240;67ef4ff6-3f71-430d-e454-86d80f0fec14;FOREIGNER;SAY YOU WILL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693881.jpg
+2025-06-14 03:23:59;211;3b652dcd-0c73-4b0e-132b-fff2783764f1;DANKO JONES;WHAT YOU NEED;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238030691.jpg
+2025-06-14 03:27:30;193;50ca8076-c185-4ca5-8586-c4d994fe474f;THE CLASH;LONDON CALLING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710311.jpg
+2025-06-14 03:31:24;215;f726fc07-96f5-475f-7d14-3352299816d3;SURVIVOR;BURNING HEART;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693851.jpg
+2025-06-14 03:35:01;175;6f8119a9-7ccd-46eb-5425-42ed0d308fb9;QUEEN;BICYCLE RACE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226717487.jpg
+2025-06-14 03:37:56;223;342eebb3-e3ae-44a7-9f55-e10da51898fa;GENESIS;I CAN'T DANCE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693561.jpg
+2025-06-14 03:41:44;246;f57f007e-b9f0-4d6f-e2f3-2176acb4f9df;NICKELBACK;ROCKSTAR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715431.jpg
+2025-06-14 03:45:50;184;996d14b2-4194-4e54-79f1-2667852c41a8;RIO REISER;KÖNIG VON DEUTSCHLAND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698333.jpg
+2025-06-14 03:48:54;268;c1f30f4b-5905-431b-7cf8-3daa82dd08e2;NIRVANA;HEART-SHAPED BOX;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713917.jpg
+2025-06-14 03:53:22;251;0a84ed14-13e3-47ca-d91b-4a9cec447151;THE ROLLING STONES;BEAST OF BURDEN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713253.jpg
+2025-06-14 03:57:43;233;02121c84-1e64-4c83-f802-4631ad4bcfb7;TOTO;AFRICA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226699239.jpg
+2025-06-14 04:03:34;229;c45763fb-62f5-471e-e3c6-0d1075f568e9;DIRE STRAITS;MONEY FOR NOTHING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688199.jpg
+2025-06-14 04:07:24;217;708c06e1-df5a-4e6d-4d3c-6bfea0c94c7a;HOOTIE & THE BLOWFISH;ONLY WANNA BE WITH YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684113.jpg
+2025-06-14 04:11:01;158;89775dd2-23fe-4cae-870b-ee84136039cc;CHEAP TRICK;I WANT YOU  TO WANT ME [LIVE];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226738233.jpg
+2025-06-14 04:13:39;168;372210ab-0cda-4ea7-0b84-d4a1906e612e;YELLOWCARD;BETTER DAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238400517.jpg
+2025-06-14 04:16:28;264;d0943a13-f334-4070-9ccf-36def98a8dc0;HUEY LEWIS & THE NEWS;I WANT A NEW DRUG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226711983.jpg
+2025-06-14 04:20:52;247;d9e08e57-d933-44e8-7d1f-008eb6521909;RED HOT CHILI PEPPERS;OTHERSIDE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709005.jpg
+2025-06-14 04:24:59;153;0ac9350e-a62d-4a17-98a8-dbe7d787d1ae;URIAH HEEP;EASY LIVIN';https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226725837.jpg
+2025-06-14 04:27:32;227;f84dcd0f-470c-44ed-fdde-1588433487f6;PINK;SOBER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692473.jpg
+2025-06-14 04:32:05;295;270ef2e7-e0bd-4854-20dd-ee46233d43b7;OASIS;WHATEVER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684163.jpg
+2025-06-14 04:37:04;225;4286ec47-d7b3-40d9-cf74-cd134e75dea1;U2;BEAUTIFUL DAY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690829.jpg
+2025-06-14 04:40:50;182;81960acd-82ef-4d0b-767d-89ebacb796e3;STYX;BOAT ON THE RIVER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693649.jpg
+2025-06-14 04:43:52;160;72568cef-8670-4a62-5cc4-066ab77f4170;KISS;ROCK AND ROLL ALL NITE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704649.jpg
+2025-06-14 04:46:32;236;0a2a3a58-ec2f-421f-7185-518697988af5;BLONDIE;MARIA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693595.jpg
+2025-06-14 04:50:36;242;768945c2-7f64-4bf4-3253-ef64d348a01b;EUROPE;ROCK THE NIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715001.jpg
+2025-06-14 04:54:38;198;66a01d3b-1a38-4ea4-1413-43602b818a9a;LINKIN PARK;WHAT I'VE DONE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226703901.jpg
+2025-06-14 04:57:55;250;b744746d-14ab-4f1f-a34f-e95a3036fa8b;ALANIS MORISSETTE;THANK U;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693517.jpg
+2025-06-14 05:03:58;265;99540487-2957-42fd-069b-0005a403d67c;MANIC STREET PREACHERS;IF YOU TOLERATE THIS YOUR CHILDREN WILL BE NEXT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692021.jpg
+2025-06-14 05:08:24;231;f0f4932a-86e0-4e97-6759-dca3f28d1d7b;RAINBOW;I SURRENDER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705461.jpg
+2025-06-14 05:12:15;177;212c5e25-a3a7-4b30-cc53-076dddeb8ab7;SUM 41;FAT LIP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709815.jpg
+2025-06-14 05:15:17;146;844ff5f8-2779-4dd2-5185-38343cc84d61;CREEDENCE CLEARWATER REVIVAL;HEY TONIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715237.jpg
+2025-06-14 05:17:42;202;bc90a095-550e-471c-59a5-6adf5d566f57;SKUNK ANANSIE;WEAK;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705465.jpg
+2025-06-14 05:21:05;157;62839ee1-cf9c-45fc-0c34-4a021702461c;DIE ÄRZTE;ZU SPÄT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714209.jpg
+2025-06-14 05:23:42;185;62106596-fd66-4093-671e-28b4c3a7f120;PHANTOM PLANET;CALIFORNIA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226700321.jpg
+2025-06-14 05:26:48;576;49e77d53-a707-4ec6-99dc-3d6a38ad5b09;MEAT LOAF;BAT OUT OF HELL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713595.jpg
+2025-06-14 05:36:40;221;ae8779de-3375-44e4-91e6-52b04fcabcb3;QUEEN & DAVID BOWIE;UNDER PRESSURE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226721629.jpg
+2025-06-14 05:40:22;305;f27c3b3c-6ad8-4b7d-b41d-3b6bedc50cd0;THE WHO;BABA O'RILEY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710029.jpg
+2025-06-14 05:45:28;257;79a5e50c-eddb-4af2-41e3-f2e828857f21;TERRY HOAX;POLICY OF TRUTH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226722421.jpg
+2025-06-14 05:49:47;186;9083988d-daac-4444-00e9-a900a71d20bd;SUNRISE AVENUE;FAIRYTALE GONE BAD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696287.jpg
+2025-06-14 05:52:53;195;55747d14-5ab3-4bbb-faa2-96c5d382ecc1;BRUCE SPRINGSTEEN;I'M GOIN' DOWN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690009.jpg
+2025-06-14 05:56:09;238;83b7a3c6-8ec7-4b57-8aa7-6f69ee749932;ZZ TOP;SHARP DRESSED MAN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690041.jpg
+2025-06-14 06:02:44;264;27818ff2-87b5-45f4-f206-90ee0ff86d53;GENESIS;MAMA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232417507.jpg
+2025-06-14 06:07:08;214;2c2b5e8e-d5ff-4f74-e0e3-15e91fa5aed0;LIQUIDO;NARCOTIC;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693519.jpg
+2025-06-14 06:10:42;142;f0cf958b-ef73-4cbc-601f-20163baf2beb;RAM JAM;BLACK BETTY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232402479.jpg
+2025-06-14 06:13:04;168;a7160e2e-bd0e-413a-1149-7148d5f16293;AVRIL LAVIGNE FEAT. SIMPLE PLAN;YOUNG AND DUMB;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238275227.jpg
+2025-06-14 06:15:51;256;0490fa1b-9f5e-430c-a615-0ee6bd000dce;TOTO;ROSANNA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226694989.jpg
+2025-06-14 06:20:08;238;29ac2d89-01cd-4a25-7ec8-7b200cba0ca5;IGGY POP;CANDY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698637.jpg
+2025-06-14 06:24:06;296;8863275a-75f4-434f-b18a-baecc7ebcb17;BARCLAY JAMES HARVEST;HYMN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685773.jpg
+2025-06-14 06:29:02;158;ccf5d3ae-615d-46ce-c8ac-a0436162c843;BLINK 182;ALL THE SMALL THINGS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226697317.jpg
+2025-06-14 06:33:05;256;bc787370-68af-4d8c-2da9-8f44f1257f2e;THE ROLLING STONES;LIKE A ROLLING STONE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682823.jpg
+2025-06-14 06:37:27;271;72266f80-60c1-416c-0067-7f53f3e15d8c;GREEN DAY;21 GUNS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226697391.jpg
+2025-06-14 06:41:58;202;bff34e6d-1427-4d3e-b8e5-742a59f68c44;VAN HALEN;WHY CAN'T THIS BE LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226694905.jpg
+2025-06-14 06:45:20;269;ee429027-086c-467f-0a90-16b9fcc50dfd;LYNYRD SKYNYRD;SWEET HOME ALABAMA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226726557.jpg
+2025-06-14 06:49:50;236;7a2b6803-8efb-417c-e3a0-b87b3e0562f8;GUN;WORD UP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713925.jpg
+2025-06-14 06:53:48;226;dddde1c3-74a6-4648-c2e2-7303fbfbf724;RIO REISER;JUNIMOND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232232839.jpg
+2025-06-14 07:01:22;329;0ecd93dd-3018-43e6-4585-ce0de1da0a66;AEROSMITH;AMAZING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692023.jpg
+2025-06-14 07:06:51;211;26d52e9c-8b69-4d6b-3ab1-5cf7a2fe83c3;MANFRED MANN'S EARTH BAND;FOR YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695973.jpg
+2025-06-14 07:11:09;222;a24db7d9-3193-4ac0-81cb-d07c682d37ee;NOTHING MORE FEAT. CHRIS DAUGHTRY;FREEFALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238035053.jpg
+2025-06-14 07:14:56;149;51dc65cc-14fb-4037-523b-8d5afcb84d7b;QUEEN;CRAZY LITTLE THING CALLED LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698553.jpg
+2025-06-14 07:18:24;252;7eca0832-e14d-4877-f8b7-de52f838daf1;JON BON JOVI;BLAZE OF GLORY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683553.jpg
+2025-06-14 07:22:36;286;f8d478f1-a51e-4939-9a32-1cc2b253eb34;MIKE OLDFIELD & ROGER CHAPMAN;SHADOW ON THE WALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693721.jpg
+2025-06-14 07:29:55;241;1e1a584b-7d67-420f-1fa2-559e7564e8c5;HOOTERS;500 MILES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693071.jpg
+2025-06-14 07:34:00;261;582fe115-2a93-407b-1fd9-5029997900c7;RED HOT CHILI PEPPERS;UNDER THE BRIDGE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712513.jpg
+2025-06-14 07:39:40;142;b017911f-369f-4f70-18c0-559a97f3ca00;LED ZEPPELIN;IMMIGRANT SONG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712663.jpg
+2025-06-14 07:42:00;209;85baf1ff-965c-47dc-b837-fe7ee51b4eab;UNCLE KRACKER;FOLLOW ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226700285.jpg
+2025-06-14 07:46:34;172;73019850-92a8-41a1-b968-ce5194b358e3;JOAN JETT & THE BLACKHEARTS;I LOVE ROCK'N ROLL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226876755.jpg
+2025-06-14 07:49:26;237;2eced028-80db-4850-4549-77f340148c5f;REM;THE SIDEWINDER SLEEPS TONITE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709977.jpg
+2025-06-14 07:53:26;278;a7983a79-7ce3-4580-43f4-d15c8d56cdaf;THE POLICE;SO LONELY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682167.jpg
+2025-06-14 08:03:15;279;303d6754-3438-4444-1d0f-b3ebb91ff127;PETER GABRIEL;SLEDGEHAMMER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714535.jpg
+2025-06-14 08:07:55;373;8d88c223-5381-4b98-e929-aac52d37ec3b;METALLICA;THE UNFORGIVEN II;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704663.jpg
+2025-06-14 08:15:23;255;8f24e21b-f3a6-453f-47f9-1a8ea9f26996;ERIC CLAPTON;I SHOT THE SHERIFF;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696133.jpg
+2025-06-14 08:19:40;195;4d3f356b-a12b-4e31-4186-68d73fdec064;SEA GIRLS;WEEKENDS AND WORKDAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_236004855.jpg
+2025-06-14 08:23:21;203;2c0d828e-5c38-44ce-6cb0-82c6404968ef;KENNY LOGGINS;DANGER ZONE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226691785.jpg
+2025-06-14 08:26:44;212;3ee8eaf4-2220-4b6a-5ae3-fbc35fe0262a;EXTREME;MORE THAN WORDS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684241.jpg
+2025-06-14 08:33:03;254;9c1adbc8-1121-4bf5-846b-3488505347d6;BRUCE SPRINGSTEEN;HUMAN TOUCH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682733.jpg
+2025-06-14 08:37:23;190;8f2a39e7-00bf-404f-a01b-2cce98b1a404;PUDDLE OF MUDD;SHE HATES ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690043.jpg
+2025-06-14 08:41:11;219;be54684b-ee9d-4e5b-8d54-deaf7ef59e13;DIE ÄRZTE;WESTERLAND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_235596399.jpg
+2025-06-14 08:44:49;141;c3ac2072-346c-4712-3e29-7710525c0e41;BOB DYLAN;KNOCKIN' ON HEAVENS DOOR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682099.jpg
+2025-06-14 08:47:38;297;f93f1678-b506-4c7b-ea83-1f54a5537e5b;AEROSMITH;CRYIN';https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682253.jpg
+2025-06-14 08:52:44;185;d45fac58-f160-4026-2527-c692df0cb5a6;QUEEN;I WANT TO BREAK FREE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709819.jpg
+2025-06-14 09:01:42;221;3b9fdf00-6d0e-42e5-77f6-741e35479e74;LENNY KRAVITZ;IT AIN'T OVER 'TIL IT'S OVER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710255.jpg
+2025-06-14 09:05:25;284;d9870a97-7617-4df9-1bb2-d2e5196a525f;BILLY IDOL;REBEL YELL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714465.jpg
+2025-06-14 09:11:26;282;fd1efa9f-3172-48c5-54e8-12b5bf63cb63;EAGLES;LIFE IN THE FAST LANE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226708055.jpg
+2025-06-14 09:16:08;201;3e6f7032-cfb0-45bf-1722-6ea3a94434f0;THE KOOKS;NAIVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226703015.jpg
+2025-06-14 09:20:07;230;c5d95542-650e-4ef3-aec3-fd42591eac6e;MATCHBOX TWENTY;PUSH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713927.jpg
+2025-06-14 09:23:57;195;c4c42817-e04c-4805-cb8c-ffb62c983cc8;PIXIES;HERE COMES YOUR MAN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226724213.jpg
+2025-06-14 09:27:14;181;71376ee0-e329-43a5-87bf-5ed6671f03ec;LINKIN PARK;UP FROM THE BOTTOM;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_237944977.jpg
+2025-06-14 09:33:25;218;e93689ba-b79e-4c74-0559-3fac53358cc9;INXS;NEW SENSATION;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716929.jpg
+2025-06-14 09:37:06;215;73ff33dc-24cb-4569-0eaf-abeef0b08b74;THE DOORS;RIDERS ON THE STORM;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685743.jpg
+2025-06-14 09:41:15;204;ef206dca-0dd7-4996-e99a-85d1bf4fddd5;THE CURE;FRIDAY I'M IN LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692627.jpg
+2025-06-14 09:44:39;267;a148e453-3ef8-4fb6-e88d-c0f9fafa9cd3;RED HOT CHILI PEPPERS;CAN'T STOP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232736493.jpg
+2025-06-14 09:49:40;203;b6f8f89a-df79-4b03-aa85-c3dac1724e48;GLENN FREY;THE HEAT IS ON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688035.jpg
+2025-06-14 09:53:08;204;1bb8be68-cbd2-469e-99d6-c25a5dd7ddd1;BUSH;THE CHEMICALS BETWEEN US;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226774009.jpg
+2025-06-14 10:02:36;252;b00bdea8-105b-447c-a33b-2c3c472c7f39;MIDNIGHT OIL;BEDS ARE BURNING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698403.jpg
+2025-06-14 10:06:49;304;4c838c98-4c40-4eaf-6ac5-061b87fe920b;REM;MAN ON THE MOON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709991.jpg
+2025-06-14 10:11:53;188;feb9ca5b-ed8a-48c5-f597-9f9c36098308;ROBERT PALMER;BAD CASE OF LOVING YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682057.jpg
+2025-06-14 10:15:01;165;b4e8c7fb-f983-4293-ed97-94be46abe2fd;ROBBIE WILLIAMS & TONY IOMMI;ROCKET;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238354803.jpg
+2025-06-14 10:17:55;257;ef107147-285e-4ef7-f581-5e244d4b851d;BRUCE SPRINGSTEEN;TOUGHER THAN THE REST;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713191.jpg
+2025-06-14 10:22:08;182;21dd20f2-3c0c-401e-6d7d-9c2047ce909a;STONE TEMPLE PILOTS;INTERSTATE LOVE SONG;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226708917.jpg
+2025-06-14 10:25:15;257;7cd7a66b-fedd-4fec-852c-6c5d5958d4d9;RAINBOW;MAN ON THE SILVER MOUNTAIN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226835517.jpg
+2025-06-14 10:29:32;201;7099457d-cdcc-4217-bfd0-3471d1524b7e;EDDIE MONEY;TAKE ME HOME TONIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690051.jpg
+2025-06-14 10:35:19;354;d32858af-cfed-45c1-a1d9-58358c7c8052;MANIC STREET PREACHERS;MOTORCYCLE EMPTINESS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709841.jpg
+2025-06-14 10:41:17;178;20fefb5a-4d27-43cd-ca22-a2707b2bc8a3;PANIC! AT THE DISCO;I WRITE SINS NOT TRAGEDIES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705675.jpg
+2025-06-14 10:44:15;195;ad03d4ed-597c-4298-b673-5e8cd84d021e;BLUES BROTHERS;EVERYBODY NEEDS SOMEBODY TO LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226681985.jpg
+2025-06-14 10:47:30;241;ffa24929-c9e0-4514-aa3a-ad61485f8a51;AC/DC;HIGH VOLTAGE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715823.jpg
+2025-06-14 10:51:21;298;40f17cf5-5e13-4e76-955f-7cf42d158083;METALLICA;WHISKEY IN THE JAR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716951.jpg
+2025-06-14 11:02:09;235;ac8f573d-7284-4e64-aa20-333bd9ad42b6;THE VERVE;BITTER SWEET SYMPHONY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683177.jpg
+2025-06-14 11:06:04;163;f04d9545-538c-4547-4893-ae8ff3592582;MOTÖRHEAD;ACE OF SPADES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705489.jpg
+2025-06-14 11:08:47;195;a4d0aeb7-1386-46b2-0233-170f0e5b5ae0;LINKIN PARK;CASTLE OF GLASS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696551.jpg
+2025-06-14 11:15:15;198;89e8fb67-d411-4d73-b5f5-486b84a76ecd;KANSAS;DUST IN THE WIND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685755.jpg
+2025-06-14 11:15:16;249;78a7bc28-2105-4b44-480b-25a76a751076;NIRVANA;LITHIUM;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226706979.jpg
+2025-06-14 11:19:25;208;5ad69636-6d0b-498b-b9f7-8d5367a13a2b;BETTE MIDLER;BEAST OF BURDEN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698459.jpg
+2025-06-14 11:22:57;221;1770bb1f-15bd-4de0-d7ed-12e35597cae9;THE RASMUS;IN THE SHADOWS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696331.jpg
+2025-06-14 11:26:39;210;2179422e-27fb-453a-f43c-5560e73fdb99;BADDIEL & SKINNER & THE LIGHTNIN;FOOTBALL'S COMING HOME - THREE LIONS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226701521.jpg
+2025-06-14 11:32:42;250;d0337e49-406a-4a80-ae0c-87f159efb002;IRON MAIDEN;THE TROOPER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705369.jpg
+2025-06-14 11:36:53;153;297a3b31-6244-4cd9-01bc-80849712524d;CREEDENCE CLEARWATER REVIVAL;HAVE YOU EVER SEEN THE RAIN?;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715231.jpg
+2025-06-14 11:39:26;255;38c3f107-4a6d-410e-fc53-caffc563c7dc;BON JOVI;KEEP THE FAITH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682257.jpg
+2025-06-14 11:44:13;185;e45be903-0cd1-4763-c5e7-38c9ea5222bd;THE LAST GOODNIGHT;PICTURES OF YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226691441.jpg
+2025-06-14 11:47:13;280;35cd00fa-a156-4740-9286-5ee2314c9a95;PINK FLOYD;LEARNING TO FLY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693445.jpg
+2025-06-14 11:51:52;236;bbbe100d-e95f-4a10-1276-918d3093df66;VAN HALEN;CAN'T STOP LOVING YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684087.jpg
+2025-06-14 12:02:22;176;a4cb202a-e19a-46ea-0d06-40b01d6508e3;THE CLASH;SHOULD I STAY OR SHOULD I GO;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710459.jpg
+2025-06-14 12:05:18;260;b7365bea-7a40-42c0-9c2f-2d192091e38d;FURY IN THE SLAUGHTERHOUSE;RADIO ORCHID;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683949.jpg
+2025-06-14 12:09:38;258;03c556d5-e9c9-45c7-c969-8e4ef82881c9;KISS;I WAS MADE FOR LOVIN' YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693639.jpg
+2025-06-14 12:13:56;188;5ea56e8a-4fc7-4f35-6cb9-441fa2736fef;RISE AGAINST;I WANT IT ALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238464111.jpg
+2025-06-14 12:17:23;226;e71260b6-2b5d-4dbd-09e1-384b2eff554a;GEORGE HARRISSON;GOT MY MIND SET ON YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_235596213.jpg
+2025-06-14 12:21:05;310;37d9726a-4973-400a-8c40-b11417b7238d;SOUNDGARDEN;BLACK HOLE SUN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226707085.jpg
+2025-06-14 12:26:21;272;32c265d2-19e9-464f-432c-8852291a51f2;THE POLICE;MESSAGE IN A BOTTLE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696125.jpg
+2025-06-14 12:34:00;182;8331fa91-2bc9-4272-c640-17edd9032bd9;THE BLACK CROWES;HARD TO HANDLE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713933.jpg
+2025-06-14 12:37:06;241;e0b928df-fc9a-499e-cadd-164897674929;GOSSIP;HEAVY CROSS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226691861.jpg
+2025-06-14 12:41:07;231;9ee96b79-0f4e-4468-dabd-a7de18823393;JOHN FARNHAM;YOU'RE THE VOICE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688471.jpg
+2025-06-14 12:46:01;298;bfd30188-c856-4b79-ea72-b3ffba281376;QUEEN;WE WILL ROCK YOU / WE ARE THE CHAMPIONS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_236176317.jpg
+2025-06-14 12:50:55;189;bce1bde6-19ba-40de-6e24-c60d8885f2f6;BRYAN ADAMS;THE ONLY THING THAT LOOKS GOOD ON ME IS YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682937.jpg
+2025-06-14 12:54:07;245;56370fcd-6df4-4612-8a50-1905e6ff444e;STEVE WINWOOD;VALERIE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716625.jpg
+2025-06-14 13:04:31;224;9497a95f-6495-4b17-dbb8-e26d7253fdb3;ALANIS MORISSETTE;YOU LEARN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710797.jpg
+2025-06-14 13:08:16;254;68fa2ab4-c17d-46d3-dcdf-82d2dc1958e1;NEIL YOUNG;ROCKIN' IN THE FREE WORLD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704651.jpg
+2025-06-14 13:12:30;207;6ec178f6-d0e9-4e42-d7f7-f709e82f148c;SHINEDOWN;DANCE, KID, DANCE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_237518091.jpg
+2025-06-14 13:15:59;337;0d292533-fc3e-41f4-e1fb-9231fe7759f3;DIRE STRAITS;SULTANS OF SWING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705177.jpg
+2025-06-14 13:25:56;264;0e7b45a7-8ae0-49e6-3ff5-28747f6ebd20;BON JOVI;IN THESE ARMS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683247.jpg
+2025-06-14 13:25:57;243;7c0570e4-f7a7-4163-e23d-181c21c09929;DAVID BOWIE;CHINA GIRL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693703.jpg
+2025-06-14 13:30:06;259;b001b77b-c4b3-4728-c5a7-c630258e602a;STAIND;IT'S BEEN AWHILE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704673.jpg
+2025-06-14 13:36:50;219;ea702557-5600-4faf-751d-e00b67677032;BRUCE SPRINGSTEEN;DANCING IN THE DARK;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226708979.jpg
+2025-06-14 13:40:29;211;1f87dfbe-7abb-4221-5289-b31a3c3cd321;ZZ TOP;LA GRANGE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710363.jpg
+2025-06-14 13:44:00;223;47be2e6c-d858-42c3-07ec-73509d24bfa4;MEREDITH BROOKS;BITCH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693609.jpg
+2025-06-14 13:50:57;197;7a7b66b3-885e-48cf-619a-cf3ce7fdcd25;KAISER CHIEFS;RUBY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226703717.jpg
+2025-06-14 13:51:00;196;4278cfe0-45bb-407a-41c2-8704b5229eb6;ELECTRIC LIGHT ORCHESTRA;CALLING AMERICA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688611.jpg
+2025-06-14 13:54:17;205;97ea1d25-0530-427e-07e1-3545275ae05f;DIE TOTEN HOSEN;BONNIE & CLYDE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705411.jpg
+2025-06-14 14:03:26;220;d4d0e87b-546b-4b91-9504-ce98d10bbd29;KISS;LICK IT UP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705441.jpg
+2025-06-14 14:07:08;264;6b9fb1f5-c82d-4957-b19b-57c8600431a4;CRANBERRIES;ODE TO MY FAMILY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683333.jpg
+2025-06-14 14:11:32;210;c3bcbf4f-6e80-41c0-c14b-12b95ba07fe2;SEX PISTOLS;ANARCHY IN THE UK;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_227105357.jpg
+2025-06-14 14:15:02;228;3120d697-adb2-452e-fedd-735c11d5ccb1;VOLBEAT;TIME WILL HEAL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238350621.jpg
+2025-06-14 14:18:59;253;1acc61e4-3c9b-4976-1a8f-7d15175eed35;GENESIS;THAT'S ALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715859.jpg
+2025-06-14 14:23:09;267;e32f0317-6724-435a-6d97-5b1e0899988d;SEMISONIC;CLOSING TIME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713899.jpg
+2025-06-14 14:27:42;164;ba28b495-a214-4bb0-c2dc-27650545b973;BLACK SABBATH;PARANOID;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704073.jpg
+2025-06-14 14:30:28;189;37acde95-467a-437d-6ed8-ce506e31626e;INXS;MYSTIFY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232402431.jpg
+2025-06-14 14:35:59;220;7eeca415-e52b-435b-300b-5c16dc7c27d7;EVERLAST;WHAT IT'S LIKE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683627.jpg
+2025-06-14 14:39:43;259;cdadb09a-7968-4737-cd67-5288ff5b595b;FOO FIGHTERS;WHEELS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690261.jpg
+2025-06-14 14:44:02;254;1020bd12-ee14-4d67-ecd0-b052c7690971;FOREIGNER;WAITING FOR A GIRL LIKE YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232232999.jpg
+2025-06-14 14:49:26;219;e0d680f6-1ff3-4f1d-d206-00d41e66cd40;THE ROLLING STONES;TUMBLING DICE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226707009.jpg
+2025-06-14 14:53:02;238;664402f7-b087-4ce6-e1ab-c4924ea11dba;UGLY KID JOE;CATS IN THE CRADLE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684015.jpg
+2025-06-14 15:04:17;274;cbb55cda-5aef-4e84-c8aa-218e21b3a1de;NEW RADICALS;YOU GET WHAT YOU GIVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683675.jpg
+2025-06-14 15:08:51;219;0fbe7e98-d391-48a0-328f-6847311469cc;U2;PRIDE [IN THE NAME OF LOVE];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715049.jpg
+2025-06-14 15:12:30;243;7a6a7355-a827-4df7-ec85-6ccbaf7d63ff;The Killers;BRIGHT LIGHTS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_236755161.jpg
+2025-06-14 15:16:38;348;7b955186-b8e3-45ae-5bc9-b668bc9db84a;QUEEN;BOHEMIAN RHAPSODY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232402517.jpg
+2025-06-14 15:22:47;213;4b084838-5366-4bf7-7b1d-4bd6c5548ab2;MICHAEL LEARNS TO ROCK;WILD WOMEN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704657.jpg
+2025-06-14 15:26:12;220;2b4b0fb4-7f44-4121-e565-a75496ccfc7e;SCORPIONS;NO ONE LIKE YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226719531.jpg
+2025-06-14 15:29:56;188;991f8e95-7c29-40f0-5ad1-f399bc668795;WEEZER;ISLAND IN THE SUN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705711.jpg
+2025-06-14 15:35:28;229;c45763fb-62f5-471e-e3c6-0d1075f568e9;DIRE STRAITS;MONEY FOR NOTHING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688199.jpg
+2025-06-14 15:39:17;263;ae570624-c7c5-4f0a-b1c0-a7a372efaf40;BOSTON;MORE THAN A FEELING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226711719.jpg
+2025-06-14 15:43:40;230;4f2a2306-923b-4ae5-e1c4-f78f377444b7;LENNY KRAVITZ;ALWAYS ON THE RUN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710251.jpg
+2025-06-14 15:47:56;220;2a166cbd-dce0-4264-ec6b-8b3e4455a88c;PINK;JUST LIKE A PILL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696341.jpg
+2025-06-14 15:51:33;198;8ca8bd56-49bf-4c91-2668-6653b60f6b2c;ALICE COOPER;POISON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695093.jpg
+2025-06-14 15:54:51;259;0ed0deed-4b02-468c-a9fc-38be64b626bb;ERIC CLAPTON;LAYLA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693635.jpg
+2025-06-14 16:03:36;195;d32446da-82a2-4fff-1d7d-492d5658fe0a;JOURNEY;ANY WAY YOU WANT IT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705435.jpg
+2025-06-14 16:06:51;201;57511ae0-b040-4b4f-f7ef-79a75ebffb43;GOO GOO DOLLS;IRIS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690015.jpg
+2025-06-14 16:11:22;297;73e321da-983d-441a-3a28-4075740868b5;AC/DC;IT'S A LONG WAY TO THE TOP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705383.jpg
+2025-06-14 16:16:09;212;e356efbe-48f9-45f5-bef4-6c36e6784b0e;BADFLOWER;PAWS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238349197.jpg
+2025-06-14 16:19:41;194;1317c9dd-0867-4ca1-f796-695c7622eb2e;BRYAN ADAMS;SUMMER OF '69;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_235596595.jpg
+2025-06-14 16:22:55;211;a277c1b0-7173-400e-a50f-a7452dc628cd;RED HOT CHILI PEPPERS;SCAR TISSUE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709001.jpg
+2025-06-14 16:26:32;233;c7bce4b9-bbcb-4a15-f298-99bada2eadce;TOTO;HOLD THE LINE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226726223.jpg
+2025-06-14 16:30:25;202;64a48ae9-89b9-4bb9-8a36-46c42195260b;FINE YOUNG CANNIBALS;SHE DRIVES ME CRAZY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688077.jpg
+2025-06-14 16:36:30;194;93c36ce4-b04d-4786-8a49-87be6edeeea9;LIVE;SELLING THE DRAMA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713907.jpg
+2025-06-14 16:39:50;248;68b74887-3c33-481a-ba4c-4cc79bf76103;STARSAILOR;FOUR TO THE FLOOR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226701081.jpg
+2025-06-14 16:44:00;227;16c4bb0a-84da-4109-27a1-c1c53d3e3621;DIE TOTEN HOSEN;HIER KOMMT ALEX;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226718701.jpg
+2025-06-14 16:48:17;225;dae3bda9-366b-4e73-166b-24e19baee01c;LITTLE RIVER BAND;LONESOME LOSER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685885.jpg
+2025-06-14 16:51:54;295;c7f6825c-8072-4686-52dd-80c0cffc15a8;CREED;HIGHER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704637.jpg
+2025-06-14 17:02:32;197;35a7bfdc-4904-4204-b0e2-b4daa263acc4;INXS;BEAUTIFUL GIRL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683939.jpg
+2025-06-14 17:05:49;241;310eb1ff-419b-4e8f-3270-b29f4d6146dc;SAGA;ON THE LOOSE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716881.jpg
+2025-06-14 17:09:50;225;df942bbe-da5e-47d9-fb3b-1d83800d8aa1;3 DOORS DOWN;HERE WITHOUT YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696321.jpg
+2025-06-14 17:13:38;273;75f8644b-33d0-413d-96d8-294926400c30;IGGY POP;THE PASSENGER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690055.jpg
+2025-06-14 17:18:17;267;a469f1c8-87ce-4873-010a-98d542f2cbce;BON JOVI;SOMEDAY I'LL BE SATURDAY NIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713923.jpg
+2025-06-14 17:23:08;178;15247d3c-1a32-4c0d-e2d6-a8588e0b48bf;WARLOCK;ALL WE ARE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226711857.jpg
+2025-06-14 17:26:02;218;a23e95d6-5459-49d2-b23f-4ce7cc1d6b0d;The Killers;JENNY WAS A FRIEND OF MINE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226724123.jpg
+2025-06-14 17:29:40;214;f2728708-b2b1-4c17-e27a-5d2fa73b94c7;ALANIS MORISSETTE;IRONIC;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710803.jpg
+2025-06-14 17:34:11;228;89572e09-c62f-4cf5-9165-795cfd765f21;GUNS N ROSES;PARADISE CITY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704747.jpg
+2025-06-14 17:37:59;226;610c65f3-72b5-4e5a-9f36-51d4e934a427;THE ROLLING STONES;BROWN SUGAR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685623.jpg
+2025-06-14 17:41:45;229;f99dc4b6-b918-4b76-ca50-74a045bd9a57;RADIOHEAD;CREEP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226689993.jpg
+2025-06-14 17:46:05;212;6f73382a-a7f0-4c84-65f2-9ffa0af259b4;BIFFY CLYRO;BLACK CHANDELIER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696749.jpg
+2025-06-14 17:49:32;242;768945c2-7f64-4bf4-3253-ef64d348a01b;EUROPE;ROCK THE NIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715001.jpg
+2025-06-14 17:53:34;220;38ce32e8-e943-444c-c215-7a6210ffbd1f;ROD STEWART;RHYTHM OF MY HEART;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693547.jpg
+2025-06-14 18:02:24;254;ae0f2764-d989-481b-1139-0ef371411f35;TEARS FOR FEARS;SHOUT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688139.jpg
+2025-06-14 18:06:39;329;4935d0ec-71d1-40b4-d645-4e0091851bf3;AEROSMITH;LIVIN' ON THE EDGE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705391.jpg
+2025-06-14 18:12:08;260;f6ece4a1-bae8-49cb-91fe-12ae4bf3a95f;BRUCE SPRINGSTEEN;BORN TO RUN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226726031.jpg
+2025-06-14 18:16:28;185;10dbbcf0-8847-4919-55af-16b67132d368;THREE DAYS GRACE;APOLOGIES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238349195.jpg
+2025-06-14 18:19:33;257;0490c353-98e6-4353-0f62-970671d8da09;DEF LEPPARD;POUR SOME SUGAR ON ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715469.jpg
+2025-06-14 18:23:51;214;9d4e3a0b-740d-4f39-4b1b-fe33b7942870;GARY MOORE;STILL GOT THE BLUES [FOR YOU];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698285.jpg
+2025-06-14 18:27:27;153;7ac6dfb7-a371-4ce0-39e5-b5f2740e4d8f;VAN HALEN;YOU REALLY GOT ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716657.jpg
+2025-06-14 18:31:17;265;99540487-2957-42fd-069b-0005a403d67c;MANIC STREET PREACHERS;IF YOU TOLERATE THIS YOUR CHILDREN WILL BE NEXT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692021.jpg
+2025-06-14 18:35:48;187;9aac43d4-a9e3-4d7a-addc-5138d6b2f5dc;FALL OUT BOY;THNKS FR TH MMRS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226703877.jpg
+2025-06-14 18:38:56;273;5bd3f935-bd8c-44ce-d5d2-a77bdeac59d3;QUEEN;I WANT IT ALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226699021.jpg
+2025-06-14 18:44:36;218;a4d8ca00-1cd5-4a52-dd89-e80c26265213;PINK FLOYD;ANOTHER BRICK IN THE WALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226730727.jpg
+2025-06-14 18:48:09;200;173d7677-e394-405a-a63a-04dea0934250;DIE ÄRZTE;HURRA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713919.jpg
+2025-06-14 18:51:33;307;fab670db-b9a8-4403-fbe8-d0912e20fa10;MIDNIGHT OIL;THE DEAD HEART;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226715493.jpg
+2025-06-14 18:56:40;223;bc349511-f0cd-4eae-2af2-6e5ecc3204a2;EVANESCENCE;BRING ME TO LIFE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226700503.jpg
+2025-06-14 19:05:07;263;c5e4ac71-f481-415f-d2a4-5be929c91605;BON JOVI;THESE DAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698565.jpg
+2025-06-14 19:09:30;258;af38bb12-c51a-4f36-cb4c-9b49e7583e4d;FOREIGNER;JUKE BOX HERO;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710677.jpg
+2025-06-14 19:13:48;192;294f70b2-62e3-4d1b-24f1-055b55cda2e9;SNOW PATROL;SHUT YOUR EYES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226703683.jpg
+2025-06-14 19:17:03;206;fcca3609-360d-4d19-44a4-7ba5047e3e10;AC/DC;HIGHWAY TO HELL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712055.jpg
+2025-06-14 19:20:29;200;89581315-08ab-49fc-d5b8-684b81ed7c37;SKUNK ANANSIE;HEDONISM [JUST BECAUSE YOU FEEL GOOD];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226729555.jpg
+2025-06-14 19:23:50;248;82fa0495-8256-4560-47a2-b28f18037b59;SCORPIONS;ROCK YOU LIKE A HURRICANE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712645.jpg
+2025-06-14 19:28:04;210;1073416c-1416-4deb-b93d-769f66da3b94;VOLBEAT;BY A MONSTER'S HAND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_237798765.jpg
+2025-06-14 19:31:34;203;f86cf0d8-6694-4b44-f93e-646946ca8876;STING;ALL THIS TIME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692617.jpg
+2025-06-14 19:35:53;214;4e1caeb0-18e8-4817-2fe5-6d0f3e33a4b6;HOOTERS;ALL YOU ZOMBIES;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695355.jpg
+2025-06-14 19:39:28;245;a4db92f5-4d82-4ce3-c8ac-22db29cc8835;SLADE;CUM ON FEEL THE NOIZE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714583.jpg
+2025-06-14 19:43:34;247;d9e08e57-d933-44e8-7d1f-008eb6521909;RED HOT CHILI PEPPERS;OTHERSIDE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709005.jpg
+2025-06-14 19:47:44;209;7623fe69-159a-427c-4f9c-16810ec6c755;NICKELBACK;HOW YOU REMIND ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696347.jpg
+2025-06-14 19:51:17;215;9d9c859a-16c1-4665-5f6e-60a30ff45a7d;KISS;CRAZY CRAZY NIGHTS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226705439.jpg
+2025-06-14 19:54:53;238;83b7a3c6-8ec7-4b57-8aa7-6f69ee749932;ZZ TOP;SHARP DRESSED MAN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690041.jpg
+2025-06-14 20:02:39;254;68fa2ab4-c17d-46d3-dcdf-82d2dc1958e1;NEIL YOUNG;ROCKIN' IN THE FREE WORLD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704651.jpg
+2025-06-14 20:06:53;225;4ef2bdd9-25c5-4445-dd12-a15111ef1bfb;ERIC CLAPTON;CHANGE THE WORLD;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682967.jpg
+2025-06-14 20:10:38;231;22ca08b8-2fd3-4a86-7694-1803777b955c;THE SWEET;BALLROOM BLITZ;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685845.jpg
+2025-06-14 20:14:29;168;a7160e2e-bd0e-413a-1149-7148d5f16293;AVRIL LAVIGNE FEAT. SIMPLE PLAN;YOUNG AND DUMB;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238275227.jpg
+2025-06-14 20:17:17;221;b88e30ed-5630-4eef-21c3-527742359925;STATUS QUO;WHAT YOU'RE PROPOSING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698917.jpg
+2025-06-14 20:20:59;310;37d9726a-4973-400a-8c40-b11417b7238d;SOUNDGARDEN;BLACK HOLE SUN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226707085.jpg
+2025-06-14 20:26:12;203;6e0f369e-a304-4954-e807-93727d256b06;STEVE MILLER BAND;THE JOKER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685647.jpg
+2025-06-14 20:29:35;170;f64a3ead-190c-4f6d-3036-3e49e85ebf6c;THE WOMBATS;LET'S DANCE TO JOY DIVISION;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226756113.jpg
+2025-06-14 20:33:41;286;ffeaadca-abcf-42d0-72b2-42c29efb7890;GENESIS;NO SON OF MINE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692629.jpg
+2025-06-14 20:38:30;197;2827cb4a-c353-447e-e261-333f31b5c40a;THE CALLING;WHEREVER YOU WILL GO;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226700845.jpg
+2025-06-14 20:41:47;283;d9870a97-7617-4df9-1bb2-d2e5196a525f;BILLY IDOL;REBEL YELL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714465.jpg
+2025-06-14 20:47:43;365;67b5631d-4653-49f0-bc59-6cf56bb875f9;DEEP PURPLE;HIGHWAY STAR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226714723.jpg
+2025-06-14 20:53:47;234;a2c017cd-9049-4c1d-e7bc-37b5f668b9fc;OASIS;WONDERWALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682893.jpg
+2025-06-14 21:01:12;329;0ecd93dd-3018-43e6-4585-ce0de1da0a66;AEROSMITH;AMAZING;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692023.jpg
+2025-06-14 21:06:41;218;e93689ba-b79e-4c74-0559-3fac53358cc9;INXS;NEW SENSATION;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226716929.jpg
+2025-06-14 21:10:18;222;a24db7d9-3193-4ac0-81cb-d07c682d37ee;NOTHING MORE FEAT. CHRIS DAUGHTRY;FREEFALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238035053.jpg
+2025-06-14 21:14:06;149;51dc65cc-14fb-4037-523b-8d5afcb84d7b;QUEEN;CRAZY LITTLE THING CALLED LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226698553.jpg
+2025-06-14 21:16:35;252;7eca0832-e14d-4877-f8b7-de52f838daf1;JON BON JOVI;BLAZE OF GLORY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226683553.jpg
+2025-06-14 21:20:47;286;f8d478f1-a51e-4939-9a32-1cc2b253eb34;MIKE OLDFIELD & ROGER CHAPMAN;SHADOW ON THE WALL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693721.jpg
+2025-06-14 21:25:33;220;9f6808c2-20c7-4c04-768a-6b7705257345;WHITE STRIPES;SEVEN NATION ARMY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704745.jpg
+2025-06-14 21:29:14;278;a7983a79-7ce3-4580-43f4-d15c8d56cdaf;THE POLICE;SO LONELY;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682167.jpg
+2025-06-14 21:35:31;203;b6f8f89a-df79-4b03-aa85-c3dac1724e48;GLENN FREY;THE HEAT IS ON;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688035.jpg
+2025-06-14 21:38:55;153;772c60ad-2bab-4544-f818-26774115ffeb;SUPERTRAMP;BREAKFAST IN AMERICA;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709891.jpg
+2025-06-14 21:41:27;260;582fe115-2a93-407b-1fd9-5029997900c7;RED HOT CHILI PEPPERS;UNDER THE BRIDGE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226712513.jpg
+2025-06-14 21:45:53;233;b3a2c5b6-5542-4868-5a8b-f12181cd6282;P.O.D.;YOUTH OF THE NATION;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226722159.jpg
+2025-06-14 21:49:46;201;7099457d-cdcc-4217-bfd0-3471d1524b7e;EDDIE MONEY;TAKE ME HOME TONIGHT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690051.jpg
+2025-06-14 21:53:07;230;c5d95542-650e-4ef3-aec3-fd42591eac6e;MATCHBOX TWENTY;PUSH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226713927.jpg
+2025-06-14 21:56:56;215;73ff33dc-24cb-4569-0eaf-abeef0b08b74;THE DOORS;RIDERS ON THE STORM;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226685743.jpg
+2025-06-14 22:02:53;211;26d52e9c-8b69-4d6b-3ab1-5cf7a2fe83c3;MANFRED MANN'S EARTH BAND;FOR YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226695973.jpg
+2025-06-14 22:06:24;213;28502836-4563-4a9f-0e65-85335dade472;CRASH TEST DUMMIES;MMM MMM MMM MMM;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692615.jpg
+2025-06-14 22:09:57;190;1d9c94aa-c1ad-41cd-7ca8-da179dbfb122;FOREIGNER;COLD AS ICE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_231889873.jpg
+2025-06-14 22:13:07;168;372210ab-0cda-4ea7-0b84-d4a1906e612e;YELLOWCARD;BETTER DAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_238400517.jpg
+2025-06-14 22:15:55;229;ba85877e-ba58-4814-6fcf-08744fdd50a1;IRON MAIDEN;RUN TO THE HILLS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710521.jpg
+2025-06-14 22:19:44;237;2eced028-80db-4850-4549-77f340148c5f;REM;THE SIDEWINDER SLEEPS TONITE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226709977.jpg
+2025-06-14 22:23:41;188;feb9ca5b-ed8a-48c5-f597-9f9c36098308;ROBERT PALMER;BAD CASE OF LOVING YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226682057.jpg
+2025-06-14 22:26:51;237;0c91fc10-27f8-4eb8-7bca-989a6e482882;RISE AGAINST;SAVIOR;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226739087.jpg
+2025-06-14 22:31:31;204;ef206dca-0dd7-4996-e99a-85d1bf4fddd5;THE CURE;FRIDAY I'M IN LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226692627.jpg
+2025-06-14 22:34:59;195;a4d0aeb7-1386-46b2-0233-170f0e5b5ae0;LINKIN PARK;CASTLE OF GLASS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696551.jpg
+2025-06-14 22:38:14;220;2b4b0fb4-7f44-4121-e565-a75496ccfc7e;SCORPIONS;NO ONE LIKE YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226719531.jpg
+2025-06-14 22:41:54;199;eb783092-da62-4a6b-d2a8-17f769034bd2;PETER GABRIEL;SOLSBURY HILL;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696203.jpg
+2025-06-14 22:45:13;262;85ac0a2d-082f-4f0e-3d05-aeaf5cfbc430;NIRVANA;SMELLS LIKE TEEN SPIRIT;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704743.jpg
+2025-06-14 22:49:39;203;2c0d828e-5c38-44ce-6cb0-82c6404968ef;KENNY LOGGINS;DANGER ZONE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226691785.jpg
+2025-06-14 22:53:03;276;86e8acc4-bfb8-44d5-67ff-b9a44f53a1c9;OZZY OSBOURNE;DREAMER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226700781.jpg
+2025-06-14 22:57:39;236;bbbe100d-e95f-4a10-1276-918d3093df66;VAN HALEN;CAN'T STOP LOVING YOU;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684087.jpg
+2025-06-14 23:03:57;373;8d88c223-5381-4b98-e929-aac52d37ec3b;METALLICA;THE UNFORGIVEN II;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226704663.jpg
+2025-06-14 23:10:10;190;172cdbf9-acf7-46f3-191e-a158588afa37;KIM WILDE;CHEQUERED LOVE;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226693663.jpg
+2025-06-14 23:13:20;195;4d3f356b-a12b-4e31-4186-68d73fdec064;SEA GIRLS;WEEKENDS AND WORKDAYS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_236004855.jpg
+2025-06-14 23:16:39;255;8f24e21b-f3a6-453f-47f9-1a8ea9f26996;ERIC CLAPTON;I SHOT THE SHERIFF;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226696133.jpg
+2025-06-14 23:20:54;212;3ee8eaf4-2220-4b6a-5ae3-fbc35fe0262a;EXTREME;MORE THAN WORDS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684241.jpg
+2025-06-14 23:24:27;219;be54684b-ee9d-4e5b-8d54-deaf7ef59e13;DIE ÄRZTE;WESTERLAND;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_235596399.jpg
+2025-06-14 23:28:05;190;8f2a39e7-00bf-404f-a01b-2cce98b1a404;PUDDLE OF MUDD;SHE HATES ME;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690043.jpg
+2025-06-14 23:31:15;225;24b78741-2758-4148-4855-fd4e4f975c2b;THE POLICE;EVERY LITTLE THING SHE DOES IS MAGIC;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226699199.jpg
+2025-06-14 23:35:18;229;818b0c7a-d958-48a7-2702-d5ee3bf72e33;STEVE WINWOOD;BACK IN THE HIGH LIFE AGAIN;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226688593.jpg
+2025-06-14 23:39:07;293;bfd30188-c856-4b79-ea72-b3ffba281376;QUEEN;WE WILL ROCK YOU / WE ARE THE CHAMPIONS;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_236176317.jpg
+2025-06-14 23:44:00;211;1a4651b3-6c93-4eb9-39f6-7be51017d8c4;BLOODHOUND GANG;THE BAD TOUCH;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226684157.jpg
+2025-06-14 23:47:33;267;a148e453-3ef8-4fb6-e88d-c0f9fafa9cd3;RED HOT CHILI PEPPERS;CAN'T STOP;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_232736493.jpg
+2025-06-14 23:51:59;200;a073b37e-5f5f-4867-808e-a1f54f97787f;IGGY POP;REAL WILD CHILD [WILD ONE];https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226690031.jpg
+2025-06-14 23:55:20;221;3b9fdf00-6d0e-42e5-77f6-741e35479e74;LENNY KRAVITZ;IT AIN'T OVER 'TIL IT'S OVER;https://storage.googleapis.com/rr-app-e7786.appspot.com/v2/covers/650_226710255.jpg
